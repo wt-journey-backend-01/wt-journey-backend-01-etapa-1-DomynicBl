@@ -1,0 +1,22 @@
+# Arquivo de log de dependências
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de ambiente - NUNCA comitar segredos!
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log gerados pela aplicação
+*.log
+
+# Pasta de build (comum em alguns projetos)
+/build
+/dist

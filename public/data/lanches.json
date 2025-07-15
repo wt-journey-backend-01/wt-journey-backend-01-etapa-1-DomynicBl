@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nome": "DevBurger Clássico",
+    "ingredientes": "Pão brioche, Carne 150g, Queijo cheddar, Alface Americano, Tomate fresco, Cebola Roxa, Molho especial",
+    "imagem": "images/DevBurger Classico.png",
+    "detalhes": {
+      "descricao": "O nosso best-seller. Uma combinação perfeita de ingredientes frescos e selecionados que definem o verdadeiro sabor de um hambúrguer clássico.",
+      "tabelaNutricional": {
+        "calorias": "780 kcal",
+        "proteinas": "35g",
+        "carboidratos": "45g",
+        "gorduras": "50g"
+      },
+      "alergenicos": "Contém Glúten, Leite e derivados. Pode conter traços de soja."
+    }
+  },
+  {
+    "id": 2,
+    "nome": "DevBurger Bacon",
+    "ingredientes": "Pão australiano, Carne 180g, Queijo prato, Bacon crocante, Cebola caramelizada, Molho barbecue",
+    "imagem": "images/DevBurger Bacon.png",
+    "detalhes": {
+      "descricao": "Para os amantes de bacon, uma explosão de sabor defumado e adocicado que vai te deixar pedindo mais. A cebola caramelizada dá o toque final.",
+      "tabelaNutricional": {
+        "calorias": "950 kcal",
+        "proteinas": "45g",
+        "carboidratos": "55g",
+        "gorduras": "65g"
+      },
+      "alergenicos": "Contém Glúten e Leite. Pode conter traços de ovo."
+    }
+  },
+  {
+    "id":3,
+    "nome": "DevBurger de Frango",
+    "ingredientes": "Pão de batata, Peito de Frango grelhado, Queijo mussarela, Alface, Tomate, Maionese de alho",
+    "imagem": "images/DevBurger Frango.png",
+    "detalhes": {
+      "descricao": "Uma opção leve e suculenta, perfeita para quem busca sabor sem excessos. O frango grelhado é acompanhado por uma maionese de alho irresistível.",
+      "tabelaNutricional": {
+        "calorias": "600 kcal",
+        "proteinas": "30g",
+        "carboidratos": "50g",
+        "gorduras": "25g"
+      },
+      "alergenicos": "Contém Glúten e Lácteos. Pode conter traços de nozes."
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Commit Veggie",
+    "ingredientes": "Pão integral, Burger de grão de bico, Queijo vegano, Rúcula, Tomate seco, Maionese de ervas",
+    "imagem": "images/DevBurger Veggie.png",
+    "detalhes": {
+      "descricao": "Nossa opção vegetariana que conquista até os carnívoros. Leve, saboroso e cheio de personalidade, com a cremosidade da maionese de ervas.",
+      "tabelaNutricional": {
+        "calorias": "550 kcal",
+        "proteinas": "25g",
+        "carboidratos": "60g",
+        "gorduras": "22g"
+      },
+      "alergenicos": "Contém Glúten. Produto vegano."
+    }
+  }
+]
